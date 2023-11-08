@@ -46,4 +46,4 @@ Incorporating image uploads into the Blog App was an essential feature. Here's h
 
 Feel free to explore the code and the various components of this project. If you have any questions or want to contribute, please don't hesitate to reach out. Enjoy using Blog Boom!
 
-Don't forget to provide installation and usage instructions, as well as any additional information or features specific to your project.
+
