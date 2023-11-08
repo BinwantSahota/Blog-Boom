@@ -34,7 +34,7 @@ The backend of this project is powered by Express.js and MongoDB. Here's how I s
 The core of this project is the Blog App, which allows users to create, edit, and delete their blog posts. Here's how it's done:
 
 - I connected the frontend and backend to ensure seamless communication.
-- Blog posts are fetched and displayed from the backend.
+- Blog posts are fetched and displayed from the backend with implementation of RESTful APIs.
 - User authentication was added to protect routes and ensure secure access.
 
 ## Uploading Images
